@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">👋 Hi! I'm Edwar Ramírez<br><br>🎓 Software Engineering student at Universidad Tecnológica Empresarial de Guayaquil (5th semester).<br>💻 Passionate about technology, programming, and developing innovative solutions.<br>⚙️ I enjoy working on microservices projects, web development, database management, and Java applications.<br>📈 I'm always looking to improve my skills and share projects that add value.<br>🏆 I've participated in events, competitions, and tech challenges inside and outside the university, earning recognitions and certifications.<br>🔎 Currently exploring more about Spring Boot, Docker, and best development practices.<br><br>👉 If you'd like to collaborate or connect, feel free to reach out!<br>📫 Email: edwarddelcastillo4@gmail.com</p>
+<p align="left">👋 Hi! I'm Edwar Ramírez<br><br>🎓 Software Engineering student at Universidad Tecnológica Empresarial de Guayaquil.<br>💻 Passionate about technology, programming, and developing innovative solutions.<br>⚙️ I enjoy working on microservices projects, web development, database management, and Java applications.<br>📈 I'm always looking to improve my skills and share projects that add value.<br>🏆 I've participated in events, competitions, and tech challenges inside and outside the university, earning recognitions and certifications.<br>🔎 Currently exploring more about Spring Boot, Docker, and best development practices.<br><br>👉 If you'd like to collaborate or connect, feel free to reach out!<br>📫 Email: edwarddelcastillo4@gmail.com</p>
 
 ###
 
