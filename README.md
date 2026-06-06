@@ -14,7 +14,7 @@
 <br/>
 
 <div align="center">
-  <img height="160" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"/>
+  <img height="160" src="./assets/cyberpunk.gif"/>
 </div>
 
 <br/>
@@ -28,7 +28,8 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=24kgolden&style=for-the-badge&color=00ff41&label=▸+SYSTEM+ACCESSES)
+<!-- FIX #1: ▸ encoded como %E2%96%B8 para evitar badge roto -->
+![Profile Views](https://komarev.com/ghpvc/?username=24kgolden&style=for-the-badge&color=00ff41&label=%E2%96%B8+SYSTEM+ACCESSES)
 
 </div>
 
@@ -79,52 +80,55 @@
 
 ### ░ ⚙️ `[BACKEND — PRIMARY PROCESS]` ░
 
-![Java](https://img.shields.io/badge/▸_Java-00ff41?style=for-the-badge&logo=openjdk&logoColor=000000)
-![Spring Boot](https://img.shields.io/badge/▸_Spring_Boot-39ff14?style=for-the-badge&logo=spring-boot&logoColor=000000)
-![Spring](https://img.shields.io/badge/▸_Spring_Framework-00cc33?style=for-the-badge&logo=spring&logoColor=000000)
-![JSP](https://img.shields.io/badge/▸_JSP_Servlets-008f11?style=for-the-badge&logo=openjdk&logoColor=00ff41)
-![REST API](https://img.shields.io/badge/▸_REST_API-00ff41?style=for-the-badge&logo=fastapi&logoColor=000000)
-![Microservices](https://img.shields.io/badge/▸_Microservices-39ff14?style=for-the-badge&logo=apachekafka&logoColor=000000)
-![Python](https://img.shields.io/badge/▸_Python-00cc33?style=for-the-badge&logo=python&logoColor=000000)
+![Java](https://img.shields.io/badge/%E2%96%B8_Java-00ff41?style=for-the-badge&logo=openjdk&logoColor=000000)
+<!-- FIX #2: spring-boot → springboot -->
+![Spring Boot](https://img.shields.io/badge/%E2%96%B8_Spring_Boot-39ff14?style=for-the-badge&logo=springboot&logoColor=000000)
+![Spring](https://img.shields.io/badge/%E2%96%B8_Spring_Framework-00cc33?style=for-the-badge&logo=spring&logoColor=000000)
+![JSP](https://img.shields.io/badge/%E2%96%B8_JSP_Servlets-008f11?style=for-the-badge&logo=openjdk&logoColor=00ff41)
+![REST API](https://img.shields.io/badge/%E2%96%B8_REST_API-00ff41?style=for-the-badge&logo=fastapi&logoColor=000000)
+![Microservices](https://img.shields.io/badge/%E2%96%B8_Microservices-39ff14?style=for-the-badge&logo=apachekafka&logoColor=000000)
+![Python](https://img.shields.io/badge/%E2%96%B8_Python-00cc33?style=for-the-badge&logo=python&logoColor=000000)
 
 ### ░ 🌐 `[FRONTEND — SECONDARY PROCESS]` ░
 
-![Angular](https://img.shields.io/badge/▸_Angular-00ff41?style=for-the-badge&logo=angular&logoColor=000000)
-![HTML5](https://img.shields.io/badge/▸_HTML5-39ff14?style=for-the-badge&logo=html5&logoColor=000000)
-![CSS3](https://img.shields.io/badge/▸_CSS3-00cc33?style=for-the-badge&logo=css3&logoColor=000000)
+![Angular](https://img.shields.io/badge/%E2%96%B8_Angular-00ff41?style=for-the-badge&logo=angular&logoColor=000000)
+![HTML5](https://img.shields.io/badge/%E2%96%B8_HTML5-39ff14?style=for-the-badge&logo=html5&logoColor=000000)
+![CSS3](https://img.shields.io/badge/%E2%96%B8_CSS3-00cc33?style=for-the-badge&logo=css3&logoColor=000000)
 
 ### ░ 🤖 `[AI & DEEP LEARNING — CERTIFIED MODULE]` ░
 
-![TensorFlow](https://img.shields.io/badge/▸_TensorFlow-00ff41?style=for-the-badge&logo=tensorflow&logoColor=000000)
-![Keras](https://img.shields.io/badge/▸_Keras-39ff14?style=for-the-badge&logo=keras&logoColor=000000)
-![NumPy](https://img.shields.io/badge/▸_NumPy-00cc33?style=for-the-badge&logo=numpy&logoColor=000000)
-![Pandas](https://img.shields.io/badge/▸_Pandas-008f11?style=for-the-badge&logo=pandas&logoColor=00ff41)
+![TensorFlow](https://img.shields.io/badge/%E2%96%B8_TensorFlow-00ff41?style=for-the-badge&logo=tensorflow&logoColor=000000)
+![Keras](https://img.shields.io/badge/%E2%96%B8_Keras-39ff14?style=for-the-badge&logo=keras&logoColor=000000)
+![NumPy](https://img.shields.io/badge/%E2%96%B8_NumPy-00cc33?style=for-the-badge&logo=numpy&logoColor=000000)
+![Pandas](https://img.shields.io/badge/%E2%96%B8_Pandas-008f11?style=for-the-badge&logo=pandas&logoColor=00ff41)
 
 ### ░ 🔌 `[HARDWARE & IoT — PHYSICAL LAYER]` ░
 
-![Arduino](https://img.shields.io/badge/▸_Arduino-00ff41?style=for-the-badge&logo=arduino&logoColor=000000)
-![Raspberry Pi](https://img.shields.io/badge/▸_Raspberry_Pi-39ff14?style=for-the-badge&logo=raspberry-pi&logoColor=000000)
+![Arduino](https://img.shields.io/badge/%E2%96%B8_Arduino-00ff41?style=for-the-badge&logo=arduino&logoColor=000000)
+![Raspberry Pi](https://img.shields.io/badge/%E2%96%B8_Raspberry_Pi-39ff14?style=for-the-badge&logo=raspberrypi&logoColor=000000)
 
 ### ░ 🗄️ `[DATABASES — RELATIONAL / SQL]` ░
 
-![MySQL](https://img.shields.io/badge/▸_MySQL-00ff41?style=for-the-badge&logo=mysql&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/▸_PostgreSQL-39ff14?style=for-the-badge&logo=postgresql&logoColor=000000)
-![Oracle](https://img.shields.io/badge/▸_Oracle-00cc33?style=for-the-badge&logo=oracle&logoColor=000000)
-![SQLite](https://img.shields.io/badge/▸_SQLite-008f11?style=for-the-badge&logo=sqlite&logoColor=00ff41)
-![SQL Server](https://img.shields.io/badge/▸_SQL_Server-005c00?style=for-the-badge&logo=microsoft-sql-server&logoColor=00ff41)
+![MySQL](https://img.shields.io/badge/%E2%96%B8_MySQL-00ff41?style=for-the-badge&logo=mysql&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/%E2%96%B8_PostgreSQL-39ff14?style=for-the-badge&logo=postgresql&logoColor=000000)
+![Oracle](https://img.shields.io/badge/%E2%96%B8_Oracle-00cc33?style=for-the-badge&logo=oracle&logoColor=000000)
+![SQLite](https://img.shields.io/badge/%E2%96%B8_SQLite-008f11?style=for-the-badge&logo=sqlite&logoColor=00ff41)
+<!-- FIX #3: microsoft-sql-server → microsoftsqlserver -->
+![SQL Server](https://img.shields.io/badge/%E2%96%B8_SQL_Server-005c00?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff41)
 
 ### ░ 🍃 `[DATABASES — NON-RELATIONAL / NoSQL]` ░
 
-![MongoDB](https://img.shields.io/badge/▸_MongoDB-00ff41?style=for-the-badge&logo=mongodb&logoColor=000000)
-![Redis](https://img.shields.io/badge/▸_Redis-39ff14?style=for-the-badge&logo=redis&logoColor=000000)
-![Firebase](https://img.shields.io/badge/▸_Firebase-00cc33?style=for-the-badge&logo=firebase&logoColor=000000)
-![Cassandra](https://img.shields.io/badge/▸_Cassandra-008f11?style=for-the-badge&logo=apache-cassandra&logoColor=00ff41)
+![MongoDB](https://img.shields.io/badge/%E2%96%B8_MongoDB-00ff41?style=for-the-badge&logo=mongodb&logoColor=000000)
+![Redis](https://img.shields.io/badge/%E2%96%B8_Redis-39ff14?style=for-the-badge&logo=redis&logoColor=000000)
+![Firebase](https://img.shields.io/badge/%E2%96%B8_Firebase-00cc33?style=for-the-badge&logo=firebase&logoColor=000000)
+<!-- FIX #4: apache-cassandra → apachecassandra -->
+![Cassandra](https://img.shields.io/badge/%E2%96%B8_Cassandra-008f11?style=for-the-badge&logo=apachecassandra&logoColor=00ff41)
 
 ### ░ ⚙️ `[DevOps & TOOLING]` ░
 
-![Docker](https://img.shields.io/badge/▸_Docker-00ff41?style=for-the-badge&logo=docker&logoColor=000000)
-![Git](https://img.shields.io/badge/▸_Git-39ff14?style=for-the-badge&logo=git&logoColor=000000)
-![GitHub](https://img.shields.io/badge/▸_GitHub-00cc33?style=for-the-badge&logo=github&logoColor=000000)
+![Docker](https://img.shields.io/badge/%E2%96%B8_Docker-00ff41?style=for-the-badge&logo=docker&logoColor=000000)
+![Git](https://img.shields.io/badge/%E2%96%B8_Git-39ff14?style=for-the-badge&logo=git&logoColor=000000)
+![GitHub](https://img.shields.io/badge/%E2%96%B8_GitHub-00cc33?style=for-the-badge&logo=github&logoColor=000000)
 
 </div>
 
@@ -181,7 +185,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24kgolden&theme=react&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=00330018&hide_border=false&border_radius=4&custom_title=▸+COMMIT+ACTIVITY+GRAPH)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24kgolden&theme=react&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=00330018&hide_border=false&border_radius=4&custom_title=%E2%96%B8+COMMIT+ACTIVITY+GRAPH)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -243,4 +247,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:002800,70:001400,100:000000&height=130&section=footer"/>
-
