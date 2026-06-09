@@ -28,7 +28,6 @@
 
 <br/>
 
-<!-- FIX #1: ▸ encoded como %E2%96%B8 para evitar badge roto -->
 ![Profile Views](https://komarev.com/ghpvc/?username=24kgolden&style=for-the-badge&color=00ff41&label=%E2%96%B8+SYSTEM+ACCESSES)
 
 </div>
@@ -81,7 +80,6 @@
 ### ░ ⚙️ `[BACKEND — PRIMARY PROCESS]` ░
 
 ![Java](https://img.shields.io/badge/%E2%96%B8_Java-00ff41?style=for-the-badge&logo=openjdk&logoColor=000000)
-<!-- FIX #2: spring-boot → springboot -->
 ![Spring Boot](https://img.shields.io/badge/%E2%96%B8_Spring_Boot-39ff14?style=for-the-badge&logo=springboot&logoColor=000000)
 ![Spring](https://img.shields.io/badge/%E2%96%B8_Spring_Framework-00cc33?style=for-the-badge&logo=spring&logoColor=000000)
 ![JSP](https://img.shields.io/badge/%E2%96%B8_JSP_Servlets-008f11?style=for-the-badge&logo=openjdk&logoColor=00ff41)
@@ -113,7 +111,6 @@
 ![PostgreSQL](https://img.shields.io/badge/%E2%96%B8_PostgreSQL-39ff14?style=for-the-badge&logo=postgresql&logoColor=000000)
 ![Oracle](https://img.shields.io/badge/%E2%96%B8_Oracle-00cc33?style=for-the-badge&logo=oracle&logoColor=000000)
 ![SQLite](https://img.shields.io/badge/%E2%96%B8_SQLite-008f11?style=for-the-badge&logo=sqlite&logoColor=00ff41)
-<!-- FIX #3: microsoft-sql-server → microsoftsqlserver -->
 ![SQL Server](https://img.shields.io/badge/%E2%96%B8_SQL_Server-005c00?style=for-the-badge&logo=microsoftsqlserver&logoColor=00ff41)
 
 ### ░ 🍃 `[DATABASES — NON-RELATIONAL / NoSQL]` ░
@@ -121,7 +118,6 @@
 ![MongoDB](https://img.shields.io/badge/%E2%96%B8_MongoDB-00ff41?style=for-the-badge&logo=mongodb&logoColor=000000)
 ![Redis](https://img.shields.io/badge/%E2%96%B8_Redis-39ff14?style=for-the-badge&logo=redis&logoColor=000000)
 ![Firebase](https://img.shields.io/badge/%E2%96%B8_Firebase-00cc33?style=for-the-badge&logo=firebase&logoColor=000000)
-<!-- FIX #4: apache-cassandra → apachecassandra -->
 ![Cassandra](https://img.shields.io/badge/%E2%96%B8_Cassandra-008f11?style=for-the-badge&logo=apachecassandra&logoColor=00ff41)
 
 ### ░ ⚙️ `[DevOps & TOOLING]` ░
@@ -166,8 +162,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24kgolden&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=24kgolden&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=chartreuse-dark&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=24kgolden&hide_title=false&hide_rank=false&show_icons=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=24kgolden&locale=en&hide_title=false&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33" height="170"/>
 
 </div>
 
