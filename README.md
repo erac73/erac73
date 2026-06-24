@@ -187,11 +187,17 @@
 
 ---
 
-## `$ sudo ./collect-trophies --all`
+## `$ ls -la /opt/featured-repos/`
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=erac73&theme=matrix&no-frame=false&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+| Proyecto | Stack | Descripción |
+|---|---|---|
+| **SysPulse** | Java 21 · OSHI · Lanterna | Monitor de sistema Linux con TUI cyberpunk |
+| **TaskFlow** | Spring Boot 3 · Next.js 14 | SaaS de gestión de tareas (equipo de 3) |
+| **Ai-coding-agent** | Java 21 | Agente de codificación AI autónomo |
+| **Ai-predictor** | Java | Reconocimiento y predicción de patrones |
+| **FILECLI** | Java | Gestor de archivos CLI para Linux |
 
 </div>
 
