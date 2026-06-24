@@ -28,7 +28,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=24kgolden&style=for-the-badge&color=00ff41&label=%E2%96%B8+SYSTEM+ACCESSES)
+![Profile Views](https://komarev.com/ghpvc/?username=erac73&style=for-the-badge&color=00ff41&label=%E2%96%B8+SYSTEM+ACCESSES)
 
 </div>
 
@@ -42,7 +42,7 @@
 ┌──────────────────────────────────────────────────────────────────────────┐
 │                                                                          │
 │   ▸ NAME     ::  Edwar Ramírez                                           │
-│   ▸ ALIAS    ::  24kgolden                                               │
+│   ▸ ALIAS    ::  erac73                                                  │
 │   ▸ NODE     ::  Guayaquil, Ecuador  🇪🇨                                  │
 │   ▸ FACULTY  ::  UTEG · Software Engineering                             │
 │   ▸ ROLE     ::  Backend Developer  [PRIMARY PROCESS]                   │
@@ -162,8 +162,8 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=24kgolden&hide_title=false&hide_rank=false&show_icons=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=24kgolden&locale=en&hide_title=false&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=erac73&hide_title=false&hide_rank=false&show_icons=true&count_private=true&theme=chartreuse-dark&locale=en&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&icon_color=39ff14&text_color=00cc33" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=erac73&locale=en&hide_title=false&layout=compact&langs_count=6&theme=chartreuse-dark&hide_border=false&border_radius=4&border_color=00ff41&bg_color=0d0d0d&title_color=00ff41&text_color=00cc33" height="170"/>
 
 </div>
 
@@ -171,7 +171,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=24kgolden&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=4&fire=00ff41&ring=39ff14&currStreakLabel=00ff41&background=0D0D0D&stroke=00ff41&dates=00cc33&sideLabels=39ff14&currStreakNum=00ff41&sideNums=00cc33" height="170"/>
+<img src="https://streak-stats.demolab.com?user=erac73&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=4&fire=00ff41&ring=39ff14&currStreakLabel=00ff41&background=0D0D0D&stroke=00ff41&dates=00cc33&sideLabels=39ff14&currStreakNum=00ff41&sideNums=00cc33" height="170"/>
 
 </div>
 
@@ -181,7 +181,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=24kgolden&theme=react&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=00330018&hide_border=false&border_radius=4&custom_title=%E2%96%B8+COMMIT+ACTIVITY+GRAPH)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=erac73&theme=react&bg_color=0d0d0d&color=00ff41&line=39ff14&point=00ff41&area=true&area_color=00330018&hide_border=false&border_radius=4&custom_title=%E2%96%B8+COMMIT+ACTIVITY+GRAPH)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -191,7 +191,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=24kgolden&theme=matrix&no-frame=false&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=erac73&theme=matrix&no-frame=false&no-bg=false&margin-w=6&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
