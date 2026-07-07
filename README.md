@@ -22,9 +22,10 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/%E2%96%BA_LinkedIn-2EE6A6?style=for-the-badge&logo=linkedin&logoColor=0d1117)](https://www.linkedin.com/in/edwar-ram%C3%ADrez-11b995270/)
-[![Twitter](https://img.shields.io/badge/%E2%96%BA_Twitter-26A269?style=for-the-badge&logo=twitter&logoColor=0d1117)](https://x.com/666_serpico)
+[![Twitter](https://img.shields.io/badge/%E2%96%BA_Twitter-26A269?style=for-the-badge&logo=twitter&logoColor=0d1117)](https://x.com/erac73)
 [![Stack Overflow](https://img.shields.io/badge/%E2%96%BA_Stack_Overflow-3DDC97?style=for-the-badge&logo=stack-overflow&logoColor=0d1117)](https://stackoverflow.com/users/28830301/edwar-del-castillo?tab=profile)
 [![Gmail](https://img.shields.io/badge/%E2%96%BA_Gmail-2EE6A6?style=for-the-badge&logo=gmail&logoColor=0d1117)](mailto:edwarddelcastillo4@gmail.com)
+[![Portfolio](https://img.shields.io/badge/%E2%96%BA_Portfolio-3DDC97?style=for-the-badge&logo=githubpages&logoColor=0d1117)](https://erac73.github.io/bytecode-portfolio/)
 
 <br/>
 
